@@ -30,4 +30,7 @@ class State(BaseModel, Base):
                 if city.state_id == self.id:
                     city_list.append(city)
             return city_list
+<<<<<<< HEAD
 
+=======
+>>>>>>> c4bf02f473502833ebfa975488a585de5424fd14
